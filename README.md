@@ -8,3 +8,4 @@
 ### Intermediate
 - <a href = "https://www.kaggle.com/code/kalelpark/visualization-for-matplotlib-intermediate-1">Intermediate [1]</a>
 - <a href = "https://www.kaggle.com/code/kalelpark/visualization-for-matplotlib-intermediate-2">Intermediate [2]</a>
+- <a href = "https://www.kaggle.com/code/kalelpark/visualization-for-matplotlib-intermediate-3">Intermediate [3]</a>
