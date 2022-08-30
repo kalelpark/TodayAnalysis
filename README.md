@@ -12,3 +12,8 @@
 
 ### Advanced
 - <a href = "https://www.kaggle.com/code/kalelpark/visualization-for-matplotlib-advanced">Advanced [1]</a>
+
+<hr>
+
+## Kaggle Translate
+- <a href="https://www.kaggle.com/code/kalelpark/pseudo-labeling-for-korean?scriptVersionId=104492912">Pseudo Label</a>
