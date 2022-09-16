@@ -2,6 +2,7 @@
 ### NLP
 - <a href = "https://blog.naver.com/qkrdnjsrl0628/222872658871">WordCloud for korean</a>
 - <a href = "https://blog.naver.com/qkrdnjsrl0628/222873920113">Count & TF-IDF Vectorizer</a>
+- <a href = "https://blog.naver.com/qkrdnjsrl0628/222876401673">LDA (Latent Dirichlet Allocation)</a>
 ### Matplotlib Tutorial
 ### Introductory
 - <a href = "https://www.kaggle.com/code/kalelpark/visualization-for-matplotlib-introductory-1">Introductory [1]</a>
