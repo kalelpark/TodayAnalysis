@@ -1,4 +1,9 @@
 # TodayAnalysis
+
+### Weights & Biases
+- <a href = "https://blog.naver.com/qkrdnjsrl0628/222872658871">W&B - Log Tracking</a>
+- <a href = "https://blog.naver.com/qkrdnjsrl0628/222877334362">W&B - tune Parameter</a>
+
 ### NLP
 - <a href = "https://blog.naver.com/qkrdnjsrl0628/222872658871">WordCloud for korean</a>
 - <a href = "https://blog.naver.com/qkrdnjsrl0628/222873920113">Count & TF-IDF Vectorizer</a>
