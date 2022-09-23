@@ -1,4 +1,6 @@
 # TodayAnalysis
+### Transformer 
+- <a href = "https://blog.naver.com/qkrdnjsrl0628/222882273140">Transformer</a>
 
 ### Weights & Biases
 - <a href = "https://blog.naver.com/qkrdnjsrl0628/222872658871">W&B - Log Tracking</a>
