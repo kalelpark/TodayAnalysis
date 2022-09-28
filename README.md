@@ -29,3 +29,4 @@
 ## Kaggle Translate
 - <a href="https://www.kaggle.com/code/kalelpark/pseudo-labeling-for-korean?scriptVersionId=104492912">Pseudo Label</a>
 - <a href="https://www.kaggle.com/code/kalelpark/pseudo-labeling-for-korean?scriptVersionId=104492912">ArcFace</a>
+- <a href="https://www.kaggle.com/code/kalelpark/pseudo-labeling-for-korean?scriptVersionId=104492912">Meta Pseudo Label</a>
